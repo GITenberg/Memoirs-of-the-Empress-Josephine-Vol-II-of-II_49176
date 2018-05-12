@@ -1,4 +1,5 @@
 _repo: Memoirs-of-the-Empress-Josephine-Vol-II-of-II_49176
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Rémusat, Paul de
@@ -7,12 +8,17 @@ contributor:
     deathdate: 1897
     gutenberg_agent_id: '36836'
     url: http://www.gutenberg.org/2009/agents/36836
+covers:
+- cover_type: archival
+  image_path: 49176-h/images/cover.jpg
 creator:
   author:
     agent_name: Rémusat, Claire Élisabeth Jeanne Gravier de
     gutenberg_agent_id: '45181'
     url: http://www.gutenberg.org/2009/agents/45181
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49176#Memoirs-of-the-Empress-Josephine-Vol-II-of-II
 gutenberg_issued: '2015-06-09'
 gutenberg_type: Text
 identifiers:
